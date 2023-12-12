@@ -3,7 +3,7 @@
 #include<memory>
 #include"SHA256.h"
 #include"User.h"
-#include"UserDataReceiver.h"
+#include"UserDatareceiver.h"
 #include"Hotel.h"
 
 using namespace std;
